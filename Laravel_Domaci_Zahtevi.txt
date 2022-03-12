@@ -1,0 +1,9 @@
+1. Kreirati Laravel aplikaciju -------------------------> DONE
+2. Kreirati 3 modela medjusobno povezana (najmanje) ----> DONE
+3. Kreirati 4 migracije razlicite namene (najmanje) ----> DONE
+4. Popuniti bazu koriscinjem seedera -------------------> DONE
+5. Verzionisanje preko GITA ----------------------------> DONE
+6. API da sadrzi najmanje 6 ruta -----------------------> DONE
+7. API da sadrzi 3 razlicita tipa ruta -----------------> DONE
+8. API mora da bude autentifikovan preko korisnika -----> DONE
+
